@@ -1,16 +1,17 @@
-# number_guessing_game
+# Number Guessing Game 🎯
 
-Guess the Number in flutter.
+An Android app that lets users guess a randomly generated number within a range.
 
-## Getting Started
+## Features
+- Random number generation
+- User input and result feedback
+- Retry functionality
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Author
+**Arun Kumar**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## License
+This project is open source and available under the [MIT License](LICENSE)
