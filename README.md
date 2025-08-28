@@ -13,5 +13,6 @@ An Android app that lets users guess a randomly generated number within a range.
 ## Author
 **Arun Kumar**
 
-## License
-This project is open source and available under the [MIT License](LICENSE)
+ScreenShot :- 
+![numberguessing](https://github.com/user-attachments/assets/a20b1bfa-8048-43fa-80a4-0981cc729348)
+
